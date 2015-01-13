@@ -1,0 +1,10 @@
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\bin\Debug\PasportStudentGii.exe
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\bin\Debug\PasportStudentGii.pdb
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\PasportStudentGii.EnterPass.resources
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\PasportStudentGii.MainForm.resources
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\PasportStudentGii.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\PasportStudentGii.exe
+c:\users\pavel\documents\visual studio 2010\Projects\PasportStudentGii\PasportStudentGii\obj\x86\Debug\PasportStudentGii.pdb
